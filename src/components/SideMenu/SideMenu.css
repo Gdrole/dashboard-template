@@ -1,0 +1,41 @@
+.SideMenuContainer {
+    background-color: #222831;
+}
+
+header.SideMenuHeader {
+    padding-bottom: 10px;
+    color: #393e46;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.active.nav-link.SideMenuItem {
+    background-color: #393e46;
+    color:#eeeeee;
+    text-decoration: none;
+}
+
+header.SideMenuHeader {
+    color:#eeeeee;
+}
+
+a.SideMenuItem {
+    display: flex;
+    align-items: center;
+    padding:0px;
+    height: 50px;
+    color:#eeeeee;
+    text-decoration: none;
+}
+
+.SideMenuAccordian {
+    height: 50px;
+    color:#eeeeee;
+    text-decoration: none;
+}
+
+a:hover.SideMenuItem {
+    background-color: #00adb5;
+    color:#eeeeee;
+    text-decoration: none;
+}
